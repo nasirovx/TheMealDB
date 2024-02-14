@@ -1,0 +1,26 @@
+.content{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+    letter-spacing: 6px;
+    margin: -10px;
+}
+.content h2{
+    font-size: 21px;
+    font-weight: 530;
+    color: #d57d1f;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+}
+.content h2:hover{
+    color: orange;
+}
+.content span{
+    font-weight: 510;
+    font-size: 21px;
+    scale: 1.6;
+    font-family: "Open Sans", sans-serif;
+}
